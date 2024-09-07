@@ -1,0 +1,15 @@
+.signin {
+
+    background-color: #CFD7C7;
+    margin: 100px auto 100px auto;
+    padding: 30px;
+}
+
+.formsubmit{
+    margin: 20px auto 20px auto;
+}
+
+.signin p {
+    text-align: center;
+    margin: 0px auto 0px auto;
+}
